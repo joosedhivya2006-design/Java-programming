@@ -13,3 +13,4 @@ System.out.println("Cargo Revenue = "+revenue);
 sc.close();
 }
 }
+
