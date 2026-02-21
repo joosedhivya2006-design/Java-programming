@@ -70,4 +70,5 @@ public class ScholarshipEligibility {
         System.out.println("Award Category: "+Category);
         scanner.close();
     }
+
 }
