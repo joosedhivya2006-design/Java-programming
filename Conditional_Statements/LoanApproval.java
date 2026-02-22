@@ -62,4 +62,5 @@ System.out.println("Maximum Loan Amount: $"+loanAmount);
         sc.close();
         sc1.close();
     }
+
 }
