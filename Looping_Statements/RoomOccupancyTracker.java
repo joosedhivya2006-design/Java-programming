@@ -46,3 +46,4 @@ public class RoomOccupancyTracker {
         sc.close();
     }
 }
+
